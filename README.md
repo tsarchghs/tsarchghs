@@ -2,7 +2,7 @@
 
 Full-stack engineer from Kosovo, focused on:
 
-- 🎓 Learning Management Systems (Byway – Vue/Nuxt, Node, Prisma)
+- 🎓 Learning Management Systems (SakaiLMS)
 - 🛒 E-commerce & Shopware + automated testing (Playwright, DDEV)
 - 🎮 Game servers (FiveM / RAGE:MP / SA:MP, Lua + JS)
 - 🧪 Tooling & DX (yuptoswagger.js, boilerplates, scripts)
