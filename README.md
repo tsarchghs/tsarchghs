@@ -1,27 +1,28 @@
-# Hi, I'm Gjergj 👋
+# Hi, I'm Gjergj Kadriu
 
-Full-stack engineer from Kosovo, focused on:
+I build practical web apps that turn messy workflows into clear, usable systems.
 
-- 🎓 Learning Management Systems (SakaiLMS)
-- 🛒 E-commerce & Shopware + automated testing (Playwright, DDEV)
-- 🎮 Game servers (FiveM / RAGE:MP / SA:MP, Lua + JS)
-- 🧪 Tooling & DX (yuptoswagger.js, boilerplates, scripts)
+## What I work on
+- Full-stack apps with NestJS + Next.js
+- Business dashboards, approvals, and reporting flows
+- Integrations with Supabase and modern APIs
+- Clean UI and data models that scale with teams
 
----
+## Strengths
+- Translating real-world processes into maintainable software
+- Building reliable APIs and clear domain boundaries
+- Shipping user-facing features with strong UX focus
+- Iterating fast while keeping codebases organized
 
-## Highlights
+## Current focus
+- ForgeTrack: construction progress tracking (projects, tasks, work logs, approvals)
+- Improving data visibility with analytics and reporting
+- Hardening auth, roles, and permissions
 
-- **Byway** – Open LMS combining Udemy + Moodle ideas (multi-tenant, course builder, grading, analytics).
-- **NSP – Network of Skilled People** – Social network for engineers (Django, Python, multi-contributor OSS).  
-- **MyTube** – Django-based video-sharing site.  
-- **yuptoswagger.js** – Converts Yup schemas into Swagger/OAS 3.  
-- **FiveM resources** – Advanced trucking, jobs, and server infra experiments.
+## Tech stack
+- Backend: NestJS, TypeScript, Supabase
+- Frontend: Next.js, React, Ant Design
+- Tooling: Node.js, Postgres, REST APIs
 
----
-
-## Tech I use a lot
-
-`Vue` · `Nuxt` · `Node` · `TypeScript` · `Prisma` · `Shopware` · `Playwright`  
-`Lua` / `C#` for game servers · `Python` · `Docker` · `MySQL` / `Postgres`
-
----
+## Contact
+- GitHub: https://github.com/tsarchghs
